@@ -1,4 +1,6 @@
 # flaskstudy
 Hello World!
 this is a test
-myname is tanxinyuan
+my name is tanxinyuan
+for i in range(100):
+    print (i)
